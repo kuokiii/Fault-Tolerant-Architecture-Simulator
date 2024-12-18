@@ -1,5 +1,3 @@
-Here's the content of the README file in plain text:
-
 Fault-Tolerant Architecture Simulator
 
 Overview
